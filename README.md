@@ -1,3 +1,3 @@
 # proyecto 01
 ### PRACTICAS
-#### commit nuevo de maxi - colaborador
+#### commit viejo de maxi - colaborador
