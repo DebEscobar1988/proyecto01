@@ -1,3 +1,4 @@
 # proyecto 01
 ### PRACTICAS
-#### commit viejo de maxi - colaborador
+#### commit nuevo- ghyighghighicolaborador
+#### commit provando conflictos
